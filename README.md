@@ -5,5 +5,6 @@
 
 **分支说明**
 
-- 01-kkb-course
+- reactArticles 记录 React 相关资源、文章等
+- 01-kkb-course 
 
